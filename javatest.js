@@ -11,3 +11,7 @@ function editUser(){
     // do edit here
     console.log("Editting")
 }
+
+function userCommenting(){
+    console.log("User commenting")
+}
