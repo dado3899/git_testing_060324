@@ -6,3 +6,8 @@ function logout(){
     // do logout here
     console.log("Logging out")
 }
+
+function editUser(){
+    // do edit here
+    console.log("Editting")
+}
