@@ -14,4 +14,5 @@ function editUser(){
 
 function branch1Function(){
     console.log("branch1Function")
+    //This works better
 }
