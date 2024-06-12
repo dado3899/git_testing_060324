@@ -11,3 +11,7 @@ function editUser(){
     // do edit here
     console.log("Editting")
 }
+
+function branch1Function(){
+    console.log("branch1Function")
+}
