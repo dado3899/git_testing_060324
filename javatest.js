@@ -15,3 +15,5 @@ function editUser(){
 function userCommenting(){
     console.log("User commenting")
 }
+
+userCommenting
