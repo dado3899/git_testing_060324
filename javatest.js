@@ -12,7 +12,15 @@ function editUser(){
     console.log("Editting")
 }
 
+<<<<<<< HEAD
 function branch1Function(){
     console.log("branch1Function")
     //This works better
 }
+=======
+function userCommenting(){
+    console.log("User commenting")
+}
+
+userCommenting
+>>>>>>> branch_2
